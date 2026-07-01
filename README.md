@@ -1,176 +1,64 @@
 <h1 align="center">EnigmaAura ⚡</h1>
 <p align="center">
-  <i>Crafting Interfaces, Solving Problems, Exploring the Future of the Web</i>
+  <i>Frontend Developer • UI/UX Designer • IT Support</i>
 </p>
 
 ---
 
-### 👋 About Me
+## 👋 About Me
 
-Hi, I’m **Adi**, also known as **EnigmaAura** in the digital space.
-I blend **technology, design, and communication** to create meaningful digital experiences.
+Hi, I'm **Adi (EnigmaAura)**.
 
-I don’t just build interfaces — I design how people **feel, interact, and connect** with technology.
-
----
-
-### 🎯 Core Focus
-
-* 💻 **Frontend Developer** — Building responsive, interactive, and modern web interfaces
-* 🎨 **UI/UX Designer** — Designing intuitive and user-centered experiences
-* 🖥️ **IT Support** — Solving real-world technical problems efficiently
+I build modern web interfaces with a focus on **performance, usability, and clean design**.
 
 ---
 
-### 🧩 Extended Skillset
+## 🚀 What I Do
 
-* ✍️ Copywriter & Technical Writer
-* 📝 Social Media Specialist
-* 🌐 Community Manager
-* 🛡️ QA Engineer
-
----
-
-### 🧠 Tech Philosophy
-
-> “Good design is invisible. Great systems feel effortless.”
-
-* Simplicity over complexity
-* Functionality over hype
-* User experience over ego
+- 💻 Frontend Development
+- 🎨 UI/UX Design
+- 🖥️ IT Support
+- ✍️ Technical Writing & Content
+- 🌐 Community Management
 
 ---
 
-### 🧠 Skills & Tech Stack
+## 🛠️ Tech Stack
 
-I focus on modern frontend development and user-centered design using industry-standard tools.
+**Frontend**
+- React
+- Next.js
+- Vue
+- Angular
+- Svelte
+- Tailwind CSS
 
----
+**Tools**
+- Figma
+- Git & GitHub
+- VS Code
+- Postman
+- Vite
+- Redux Toolkit
 
-#### 💻 Frontend Development
-
-**Core Frameworks & Libraries**
-
-* React.js
-* Vue.js
-* Angular
-* Svelte
-* Next.js
-
-**Build Tools & Bundlers**
-
-* Vite
-* Parcel
-* Rollup
-
-**Development Environment**
-
-* Visual Studio Code (VS Code)
-* WebStorm
-* Sublime Text
-
-**Debugging & Testing**
-
-* Chrome DevTools
-* Lighthouse
-* Postman
-* Memlab
-
-**Styling & UI**
-
-* Tailwind CSS
-* Sass / SCSS
-
-**Package Managers & Utilities**
-
-* NPM / Yarn / PNPM
-* Git & GitHub
-* Prettier / ESLint
-* Apidog
-
-**State Management & Performance**
-
-* Redux Toolkit
-* React Query
+**Other**
+- Windows & Linux
+- Basic Networking
+- QA Testing
+- Notion
+- Trello
 
 ---
 
-#### 🎨 UI/UX Design
+## 🌱 Currently Learning
 
-* Figma (Primary Tool)
-* Balsamiq
-* Adobe XD
-
----
-
-#### 🖥️ IT Support
-
-* AnyDesk / TeamViewer
-* Windows & Linux Environment
-* Basic Networking Tools (Ping, Traceroute, IP Config)
-* System Monitoring & Troubleshooting
+- Web3
+- AI Integration
+- Web4 Technologies
 
 ---
 
-#### ✍️ Content & Documentation
-
-* Notion
-* Google Docs
-* Medium
-* Grammarly
-
----
-
-#### 🌐 Social Media & Community
-
-* Discord
-* Telegram
-* Meta Business Suite
-* Buffer / Hootsuite
-
----
-
-#### 🛡️ QA & Testing
-
-* Manual Testing
-* Chrome DevTools (Debugging)
-* Postman (API Testing)
-* Trello / Jira (Bug Tracking)
-
----
-
-#### ⚡ Productivity & Collaboration
-
-* Slack
-* Google Workspace
-* Trello / Notion
-* Zoom / Google Meet
-
----
-
-### 🚀 Currently Exploring
-
-* ⛓️ **Web3**
-  Learning smart contracts, decentralized ecosystems, and actively exploring testnets
-
-* 🌐 **Web4**
-  Exploring AI integration, decentralized identity, and the future of the internet
-
-> I’m not just following trends — I’m studying where the web is going next.
-
----
-
-### 🧱 What I Build
-
-* Clean & modern UI interfaces
-* Responsive frontend applications
-* User-focused digital experiences
-* Technical documentation & guides
-* Community-driven platforms
-
----
-
-### 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adicahyadir&show_icons=true&theme=tokyonight" />
@@ -179,7 +67,7 @@ I focus on modern frontend development and user-centered design using industry-s
 
 ---
 
-### 📈 Activity Graph
+## 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adicahyadir&theme=tokyo-night" />
@@ -187,26 +75,17 @@ I focus on modern frontend development and user-centered design using industry-s
 
 ---
 
-### 🌍 Digital Presence
+## 🌐 Connect With Me
 
-* 🔗 https://linktr.ee/enigmaticaura
-* 🐦 https://x.com/EnigmaticAura_
-* 📷 https://instagram.com/enigmaticaura101
-* 📚 https://enigmaticaura101.medium.com/
-* 📘 https://enigmatics.gitbook.io/enigmatic-aura
+- 🔗 https://linktr.ee/enigmaticaura
+- 🐦 https://x.com/EnigmaticAura_
+- 📷 https://instagram.com/enigmaticaura101
+- 🎵 https://tiktok.com/@adicahyadir.dev
+- 📚 https://enigmaticaura101.medium.com
+- 📘 https://enigmatics.gitbook.io/enigmatic-aura
 
 ---
 
-### 🤝 Let’s Build Something Meaningful
-
-I’m open to:
-
-* Collaboration
-* Freelance projects
-* Tech & creative discussions
-
-If you’re building something interesting — let’s connect 🚀
-
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <b>Let's build something meaningful 🚀</b>
 </p>
