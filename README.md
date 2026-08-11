@@ -80,8 +80,6 @@ I specialize in crafting high-performance, accessible, and visually captivating 
 - 🤖 **AI Integration & Agents**: Implementing LLM APIs, prompt engineering patterns, retrieval-augmented generation (RAG), and intelligent UI components.
 - ⚡ **Web Performance & Optimization**: Deep-diving into Server Components, Core Web Vitals, and efficient bundle splitting.
 
-👉 *Check out my detailed learning log in [BELAJAR.MD](BELAJAR.MD) and technical breakdown in [SKILLS.md](SKILLS.md).*
-
 ---
 
 ## 📊 GitHub Statistics

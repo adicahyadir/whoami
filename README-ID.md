@@ -82,8 +82,6 @@ Saya berfokus pada pengembangan antarmuka web modern yang cepat, responsif, dan 
 - 🤖 **Integrasi Kecerdasan Buatan (AI)**: Mengintegrasikan LLM API, teknik prompt engineering, RAG (Retrieval-Augmented Generation), dan komponen UI cerdas.
 - ⚡ **Optimasi Performa Web**: Memperdalam Server Components, Core Web Vitals, dan teknik bundle splitting yang efisien.
 
-👉 *Lihat jurnal belajar lengkap saya di [BELAJAR.MD](BELAJAR.MD) dan rincian kemampuan di [SKILLS.md](SKILLS.md).*
-
 ---
 
 ## 📊 Statistik GitHub
